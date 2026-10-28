@@ -4,7 +4,7 @@ An open-source project focused on the question: what is the representative autho
 
 ## Status
 
-Early draft, 28 October 2026. The repository currently contains only this README and the license. There are no rules and no code yet.
+Early draft, 28 October 2026. The repository contains this README, the license, a draft model (docs/model.md) and draft rules for Bulgaria (rules/bg.md) and Germany (rules/de.md). There is no code yet. The drafts were prepared with AI assistance (Claude, Anthropic) and have not been reviewed by the maintainer.
 
 ## What it clarifies
 
@@ -32,7 +32,7 @@ Directive (EU) 2025/25 introduces two new elements into Directive (EU) 2017/1132
 
 ## Sources and Methodology
 
-Each rule will cite a specific article, checked against the official text, with the date of the check.
+Each rule names the article it rests on and the date it was checked against the official text. Points not yet checked are marked [UNVERIFIED].
 
 Sources:
 
@@ -45,7 +45,7 @@ Sources:
 
 ## Limitations
 
-Each rule, once added, will state the version of the law it reflects. No independent legal review has been carried out. Errors may be reported by creating an "issue" on GitHub.
+Each rule states the date it was checked. The rules reflect the law as of that date. No independent legal review has been carried out. Errors may be reported by creating an "issue" on GitHub.
 
 ## License
 
