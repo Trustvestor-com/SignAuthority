@@ -16,7 +16,7 @@ The project removes key administrative and legal barriers to business digitaliza
   *Ensures legal certainty: Eliminates the risk of errors regarding joint signatory authority and accelerates deal execution as well as KYB (Know Your Business) and onboarding processes. 
   *Compliance with EU Standards: Works directly with the EU Company Certificate, the Digital Power of Attorney (Directive (EU) 2025/25), and the EUDI Wallet;*
 
-#How it works
+# How it works
   1. Input Data: The user (or an integrated system) submits an electronically signed document (or a draft thereof), along with a digital certificate of representation (*EU Company Certificate* / *EAA token*).
   2. Automated Verification: The module validates the submitted digital evidence and applies deterministic legal rules based on the country where the company is registered.
   3. Result: The application returns an immediate status:
